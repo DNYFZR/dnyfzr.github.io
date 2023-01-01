@@ -3,9 +3,9 @@
   "use strict";
 
     // COLOR MODE
-    $('.dark-mode').click(function(){
-        $('.color-mode-icon.active').toggleClass('active')
-        $('body').toggleClass('color-mode')
+    $('.color-mode').click(function(){
+        $('.color-mode-icon').toggleClass('active')
+        $('body').toggleClass('dark-mode')
     })
 
     // HEADER
