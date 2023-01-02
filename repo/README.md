@@ -1,6 +1,6 @@
 ## README
 
-| **Status** | INSERT ACTIONS STATUS BADGE
+| **Status** | [![pages-build-deployment](https://github.com/DNYFZR/dnyfzr.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/DNYFZR/dnyfzr.github.io/actions/workflows/pages/pages-build-deployment)
 |--|--
 
 This repo hosts my [GitHub Pages site](https://DNYFZR.github.io/)
