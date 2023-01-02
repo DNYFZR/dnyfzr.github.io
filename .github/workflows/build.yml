@@ -1,9 +1,8 @@
-name: build 
+name: mkdocs-deploy 
 
 on:
   push:
     branches:
-      - master 
       - main
 
 permissions:
