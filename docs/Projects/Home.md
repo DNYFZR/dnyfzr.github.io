@@ -1,10 +1,12 @@
-<h1 align="center"><b> Welcome </b></h1>
+<h1 align="center"><b> Home </b></h1>
 
-<p align="center">
-
-  <b>2023 : This site is under development</b>
-
-</p>
+|**Project** | **GitHub repo** | **Info**
+|--|--|--
+| [SNWLNK App](https://dnyfzr.github.io/SNWLNK/) | [SNWLNK](https://github.com/DNYFZR/SNWLNK) |  Social link sharing app built with Streamlit
+| [Tennis App](https://tennis.streamlit.app/)| [TennisApp](https://github.com/DNYFZR/TennisApp) | ATP tour match & player analytics
+| Spark Reactor | [Reactor](https://github.com/DNYFZR/reactor) | Spark data engineering developer tools project
+| Database API | [DatabaseAPI](https://github.com/DNYFZR/DatabaseAPI) | FastAPI build on a Postgres DB, deployed with Docker
+| Pure Aero | In development | Tennis match predictions, player statistics and tour analytics (ATP & WTA)
 
 <br>
 
