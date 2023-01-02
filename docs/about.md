@@ -28,23 +28,31 @@
     <img src="https://user-images.githubusercontent.com/76977155/192382397-d415c645-072e-4bb2-95ec-06bc23166691.svg" alt="Powershell" width="50" height="40"/>&ensp;
     <img src="https://user-images.githubusercontent.com/76977155/209215121-5f543d38-0cd6-40df-aff3-a0666e4bf4c2.svg" alt="Dagster" width="45" height="45"/>&ensp;
 
-</div><br>
+</div>
+
+<br>
 
 <!--- Social badges --->
 <p align="center">
   
   <img
-    src="https://img.shields.io/badge/Twitter-Posts-blue?style=for-the-badge&logo=twitter" href="https://twitter.com/DNYFZR"
+    src="https://img.shields.io/badge/Twitter-Posts-blue?style=flat-squate&logo=twitter" href="https://twitter.com/DNYFZR"
     alt="twitter link"
     > &ensp;
   
   <img
-    src="https://img.shields.io/badge/Medium-Articles-blue?style=for-the-badge&logo=medium" href="https://medium.com/@DNYFZR"
+    src="https://img.shields.io/badge/Medium-Articles-blue?style=flat-squate&logo=medium" href="https://medium.com/@DNYFZR"
     alt="medium article badge link"
     > &ensp;
   
   <img
-    src="https://img.shields.io/badge/PSF-Membership-blue?style=for-the-badge&logo=python"
+    src="https://img.shields.io/badge/GitHub-Profile-blue?style=flat-squate&logo=github"
+    href="https://www.github.com/DNYFZR"
+    alt="github profile"
+    > &ensp;
+
+  <img
+    src="https://img.shields.io/badge/PSF-Member-blue?style=flat-squate&logo=python"
     href="https://www.python.org/psf"
     alt="python software foundation member"
     > &ensp;

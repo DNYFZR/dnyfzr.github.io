@@ -1,5 +1,5 @@
 # Configuration File
-site_name: DNYFZR
+site_name: "Dev : DNYFZR"
 
 theme:
   name: material
