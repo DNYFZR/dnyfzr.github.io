@@ -7,10 +7,6 @@ theme:
   features:
     - header.autohide
 
-  plugins:
-  - blog:
-      blog_dir: Articles/
-
   palette:
 
     # Dark Mode  
@@ -24,7 +20,7 @@ theme:
     # Light mode
     - scheme: default
       primary: teal
-      accent: orange
+      accent: deep orange
       toggle:
           icon: material/lightbulb 
           name: Switch to dark mode
