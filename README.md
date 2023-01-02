@@ -1,9 +1,12 @@
-## README
+<h2 align="center"><b> Development README </b></h2>
 
-| **Status** | [![pages-build-deployment](https://github.com/DNYFZR/dnyfzr.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/DNYFZR/dnyfzr.github.io/actions/workflows/pages/pages-build-deployment)
+| **Build** | [![build](https://github.com/DNYFZR/dnyfzr.github.io/actions/workflows/build.yml/badge.svg)](https://github.com/DNYFZR/dnyfzr.github.io/actions/workflows/build.yml)
 |--|--
+| **Deployment** | [![pages-build-deployment](https://github.com/DNYFZR/dnyfzr.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/DNYFZR/dnyfzr.github.io/actions/workflows/pages/pages-build-deployment)
 
-This repo hosts my [GitHub Pages site](https://DNYFZR.github.io/)
+<br>
+
+This project has been build using mkdocs & the mkdocs-material theme.
 
 - The site is configured using the [mkdocs.yml](/mkdocs.yml)
 
@@ -11,9 +14,9 @@ This repo hosts my [GitHub Pages site](https://DNYFZR.github.io/)
 
 - Build is managed via [GitHub Actions](https://github.com/DNYFZR/dnyfzr.github.io/actions)
 
-### Site Build
+<br>
 
-This project has been build using mkdocs & the mkdocs-material theme.
+Python has been used to create a development environment, and to install the mkdocs packages within it :
 
 ````ps1
 # Set up & install
@@ -22,7 +25,7 @@ cd <env_name>/scripts
 ./activate
 
 python -m pip install -U pip
-python -m pip install mkdocs
+python -m pip install mkdocs mkdocs-material
 
 # Setup project
 cd ../../
