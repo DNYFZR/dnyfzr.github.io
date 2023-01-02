@@ -3,7 +3,22 @@ site_name: DNYFZR
 
 theme:
   name: material
-  
+
+  plugins:
+  - blog:
+      blog_dir: posts/
+      post_date_format: medium
+      post_url_date_format: yyyy
+      post_url_format: "{slug}"
+      post_slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+      post_slugify_separator: "-"
+
+  nav:
+  - Blog:
+    - blog/index.md
+
   features:
     - header.autohide
 
