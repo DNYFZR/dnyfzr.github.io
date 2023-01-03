@@ -1,19 +1,20 @@
+<!--- Head ---> 
 <h1 align="center"><b> Welcome 👋🏼 </b></h1>
 
-<p align="center">
-
-  <b> Site Under Development </b>
-
-</p>
+<h4 align="center"><b> 🚧 Site Under Development 🚧</b></h4>
 
 <br>
 
+<!--- Intro ---> 
 <p align="center">
+
   Software Engineer currently working in data, analytics & machine learning
+
 </p>
 
 <br>
 
+<!--- Tech badges ---> 
 <h5 align="center"><b> Technologies </b></h5>
 
 <div align="center">
