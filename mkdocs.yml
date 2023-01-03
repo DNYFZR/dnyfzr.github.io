@@ -1,34 +1,27 @@
 # Configuration File
-site_name: "Docs : DNYFZR"
+site_name: "ProjectHub"
 
 nav:
     - Home: index.md
-    - Projects: projects.md
-    - Developer Resources: 
-      - Website: https://dnyfzr.github.io/resources/
-      - Repo: https://github.com/DNYFZR/resources/
-      
-    - Social Links App:
-      - Website: https://dnyfzr.github.io/SNWLNK/
-      - Repo: https://github.com/DNYFZR/SNWLNK/
-      - Live App: https://socials.streamlit.app/
 
-    - Tennis App:
-      - Website: https://dnyfzr.github.io/TennisApp/
-      - Repo: https://github.com/DNYFZR/TennisApp/
-      - Live App: https://tennis.streamlit.app/
+    - Link Sharing App: 
+      - Home: snwlnk.md
+      - App: https://socials.streamlit.app/
 
-    - Database API: 
-      - Website: https://dnyfzr.github.io/DatabaseAPI/
-      - Repo: https://github.com/DNYFZR/DatabaseAPI/
-    
-    - Spark Reactor: 
-      - Website: https://dnyfzr.github.io/reactor/
-      - Repo: https://github.com/DNYFZR/reactor/
+    - ATP Tour Stats App:
+      - Home: tennisApp.md
+      - App: https://tennis.streamlit.app/
+
+    - Developer Resources: resources.md        
+    - Postgres Database API: dbAPI.md
+    - Spark Codebase Manager: reactor.md
 
 theme:
   name: material
   
+  font:
+    text: DM Sans
+
   features:
     - header.autohide
   
