@@ -1,41 +1,51 @@
 # Configuration File
-site_name: "Dev : DNYFZR"
+site_name: "Docs : DNYFZR"
+
+nav:
+    - Home: index.md
+    - Projects: projects.md
+    - Developer Resources: 
+      - Website: https://dnyfzr.github.io/resources/
+      - Repo: https://github.com/DNYFZR/resources/
+      
+    - Social Links App:
+      - Website: https://dnyfzr.github.io/SNWLNK/
+      - Repo: https://github.com/DNYFZR/SNWLNK/
+      - Live App: https://socials.streamlit.app/
+
+    - Tennis App:
+      - Website: https://dnyfzr.github.io/TennisApp/
+      - Repo: https://github.com/DNYFZR/TennisApp/
+      - Live App: https://tennis.streamlit.app/
+
+    - Database API: 
+      - Website: https://dnyfzr.github.io/DatabaseAPI/
+      - Repo: https://github.com/DNYFZR/DatabaseAPI/
+    
+    - Spark Reactor: 
+      - Website: https://dnyfzr.github.io/reactor/
+      - Repo: https://github.com/DNYFZR/reactor/
 
 theme:
   name: material
-
-  plugins:
-  - blog:
-      blog_dir: posts/
-      post_date_format: medium
-      post_url_date_format: yyyy
-      post_url_format: "{slug}"
-      post_slugify: !!python/object/apply:pymdownx.slugs.slugify
-        kwds:
-          case: lower
-      post_slugify_separator: "-"
-
-  nav:
-  - Blog:
-    - blog/index.md
-
+  
   features:
     - header.autohide
-
+  
   palette:
 
     # Dark Mode  
     - scheme: slate
-      primary: teal
-      accent: deep orange
+      primary: blue
+      accent: pink
       toggle:
           icon: material/lightbulb-outline
           name: Switch to light mode
-
+     
     # Light mode
     - scheme: default
-      primary: teal
-      accent: deep orange
+      primary: blue
+      accent: pink
       toggle:
           icon: material/lightbulb 
           name: Switch to dark mode
