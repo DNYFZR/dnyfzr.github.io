@@ -2,8 +2,8 @@
 
 Spark codebase management tools for data engineering & machine learning
 
-**Repo : [Spark Reactor]("https://github.com/DNYFZY/reactor/")**
+- Repo : [reactor](https://github.com/DNYFZR/reactor/)
 
-[**Docs Site : **]("https://dnyfzr.github.io/reactor/")
+[**Docs**](https://dnyfzr.github.io/reactor/)
 
-<iframe src="https://dnyfzr.github.io/reactor/" width="100%" height="500"></iframe>
+<iframe src="https://dnyfzr.github.io/reactor/" style="border:none;" width="100%" height="500"></iframe>
