@@ -3,22 +3,15 @@ site_name: "ProjectHub"
 
 nav:
     - Home: index.md
-
-    - Link Sharing App: 
-      - Home: snwlnk.md
-      - App: https://socials.streamlit.app/
-
-    - ATP Tour Stats App:
-      - Home: tennisApp.md
-      - App: https://tennis.streamlit.app/
-
+    - ATP Tour Stats App: tennisApp.md
     - Developer Resources: resources.md        
+    - Link Sharing App: snwlnk.md
     - Postgres Database API: dbAPI.md
     - Spark Codebase Manager: reactor.md
 
 theme:
   name: material
-  
+
   font:
     text: DM Sans
 
@@ -26,7 +19,6 @@ theme:
     - header.autohide
   
   palette:
-
     # Dark Mode  
     - scheme: slate
       primary: blue
