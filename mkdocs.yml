@@ -3,11 +3,11 @@ site_name: "ProjectHub"
 
 nav:
     - Home: index.md
-    - ATP Tour Stats App: tennisApp.md
-    - Developer Resources: resources.md        
-    - Link Sharing App: snwlnk.md
-    - Postgres Database API: dbAPI.md
-    - Spark Codebase Manager: reactor.md
+    - ATP Tour Stats App: https://dnyfzr.github.io/TennisApp/
+    - Developer Resources: https://dnyfzr.github.io/resources/
+    - Link Sharing App: https://dnyfzr.github.io/SNWLNK/
+    - Postgres Database API: https://dnyfzr.github.io/DatabaseAPI/
+    - Spark Codebase Manager: https://dnyfzr.github.io/reactor/
 
 theme:
   name: material
